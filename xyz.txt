@@ -1,3 +1,7 @@
 hey how are you this is my first change.
 hey this is my second changes
-hey I want to revert those changes
+<<<<<<< HEAD
+=======
+hey this is my thrid changes
+4th change
+>>>>>>> parent of 351731c... git revert
